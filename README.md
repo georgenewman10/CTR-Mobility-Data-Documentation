@@ -1,5 +1,5 @@
 # CTR Mobility Data Documentation
-This repository serves an an issue tracker for the various datasets used by CTR.
+This repository serves as an issue tracker for the various datasets used by CTR.
 
 ## Issue creation:
 When creating an issue, please make sure to add your issue to the proper milestone, by clicking the **Milestones** button on the right side of your screen. Feel free to also add labels to your issue from the **Labels** button.
