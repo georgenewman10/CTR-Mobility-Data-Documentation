@@ -1,7 +1,7 @@
 # CTR Mobility Data Documentation
 This repository serves an an issue tracker for the various datasets used by CTR.
 
-### Finding relevant issues
+### Find relevant issues
 Navigate to the **Issues** tab to see a list of all open issues. Sort by Milestones to find all issues related to a specific data type. 
 
 ### Note when creating issues:
