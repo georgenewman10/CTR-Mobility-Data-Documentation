@@ -9,5 +9,5 @@ When creating an issue, please make sure to add your issue to the proper milesto
 
 ### Data types:
   - [APC](./APC_data)
-  - GTFS
-  - AVL
+  - [GTFS](./GTFS_data)
+  - [AVL](./AVL_data)
