@@ -15,5 +15,5 @@ Navigate to the [**Issues**](https://github.com/georgenewman10/CTR-Mobility-Data
 
 
 ## To do:
-  [ ] change links to github.com/ut-ctr-nmc/
-  [ ] transfer repo to ut-ctr-nmc
+  - [ ] change links to github.com/ut-ctr-nmc/
+  - [ ] transfer repo to ut-ctr-nmc
