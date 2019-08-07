@@ -8,6 +8,7 @@ When creating an issue, please make sure to add your issue to the proper milesto
 Navigate to the [**Issues**](https://github.com/ut-ctr-nmc/CTR-Mobility-Data-Documentation/issues) tab to see a list of all open issues. Sort by Milestones to find all issues related to a specific data type. 
 
 ### Data types:
-  - [APC](./APC)
-  - [GTFS](./GTFS)
-  - [AVL](./AVL)
+  - [APC](./transit_apc)
+  - [AVL](./transit_avl)
+  - [GTFS](./transit_gtfs)
+  
