@@ -38,5 +38,8 @@ For example, for the first two service periods of 2017 (Jan 8th, 2017 - August 3
 In total, there were 551275 (6.15%) observations without identifying information. Further exploration is needed to get a sense of which routes or regions throughout the City of Austin suffer most from missing data.
 
 
+
+
+
 <a name="f1">1</a>: [Click here for GTFS documentation](./transit_gtfs.md)</br>
 <a name="f2">2</a>: From APC Data Exploration.html document
