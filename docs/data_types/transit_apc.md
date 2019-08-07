@@ -1,7 +1,7 @@
 # AUTOMATED PASSENGER COUNTS (APC)
 Automated Passenger Counts (APC) data is periodically published online at the [TX data portal](https://data.texas.gov/browse?q=APC&sortBy=relevance) at the end of service periods. The data contains information on boardings, alightings, occupancy and dwell time at every instance a transit vehicle makes a stop. The coordinates (lat/lons following spatial reference system EPSG:4326) are also recorded.
 
-Service periods for CapMetro are typically 3x a year: Jan through mid-June, mid-June through mid-August, and mid-August through the end of the year. The route, trip, and vehicle IDs in the APC data should theoretically map onto General Transit Feed Specification (GTFS)[^1] route, trip and vehicle IDs for the same period.
+Service periods for CapMetro are typically 3x a year: Jan through mid-June, mid-June through mid-August, and mid-August through the end of the year. The route, trip, and vehicle IDs in the APC data should theoretically map onto General Transit Feed Specification (GTFS)<sup>[1](#f1)</sup> route, trip and vehicle IDs for the same period.
 
 ### Table Description
 
@@ -30,12 +30,13 @@ There are two key data considerations for the APC datasets:
 * Some route and trip IDs do not map onto the GTFS IDs for the same service period (or any)
 * Missing information takes the form of route or trip IDs that are recorded as 0
 
-For example, for the first two service periods of 2017 (Jan 8th, 2017 - August 3rd, 2017)[^2], there were:
+For example, for the first two service periods of 2017 (Jan 8th, 2017 - August 3rd, 2017)<sup>[2](#f2)</sup>, there were:
 * 295009 transit vehicle stops with missing routes IDs recorded
 * 40716 transit vehicle stops with missing trip IDs recorded
 * 215550 transit vehicle stops with missing trip and route IDs recorded
 
 In total, there were 551275 (6.15%) observations without identifying information. Further exploration is needed to get a sense of which routes or regions throughout the City of Austin suffer most from missing data.
 
-[^1]: [Click here for GTFS documentation](./transit_gtfs.md)
-[^2]: From APC Data Exploration.html document
+
+<a name="f1">1</a>: [Click here for GTFS documentation](./transit_gtfs.md)</br>
+<a name="f2">2</a>: From APC Data Exploration.html document
