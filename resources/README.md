@@ -1,5 +1,7 @@
 ## Download Link here
 
 The principal objective of this research is to evaluate the multimodal performance of arterial corridors using currently available MMLOS methodologies. Eight different Multimodal Performance Level of Service approaches are applied to a case study using an arterial corridor section in Austin, Texas. The methods applied are (1) Highway Capacity Manual, (2) Transit Capacity and Quality of Service, (3) Charlotte’s Urban Streets Design Guide, (4) Pedestrian and Bicycle Environmental Quality Index, (5) Level of Traffic Stress, (6) Bicycle Compatibility Index, (7) Deficiency Index, and (8) Walk Score®, Bike Score®, and Transit Score®. The analysis is focused on the pedestrian, bicycle, and transit assessment. The methodologies are evaluated and contrasted. The paper provides a compressive review of the current state of practice of multimodal evaluation, and recommendations about the most appropriate approaches to assess multimodal performance of arterial corridors.
-</br>
+
+<br>
+
 A complimentary effort to this paper was the development of an MMLOS spreadsheet tool for the City of Austin to use in assessing LOS for transportation corridors. For that tool, the authors recommended applying HCM and TCQSM methodologies to assess the corridors. The methodologies were applied as directed, with minor deviations to tailor the analysis to the corridor in question, as well as to more easily compare analysis results across scenarios.
